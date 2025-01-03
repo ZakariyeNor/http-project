@@ -1,0 +1,23 @@
+{
+  "name": "http-project",
+  "version": "1.0.0",
+  "description": "HTTPS pract...",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariyeNor/http-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakariyeNor/http-project/issues"
+  },
+  "homepage": "https://github.com/ZakariyeNor/http-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
